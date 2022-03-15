@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028917035095",
+    "project_id": "mediator-f3ff6",
+    "storage_bucket": "mediator-f3ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028917035095:android:3b8f05fa10ef4eba742312",
+        "android_client_info": {
+          "package_name": "com.example.mediator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028917035095-pdivsnuk8fu7gi52b8gj4ppuceov5kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4NKfxc4NjOd1lubMU0M-Kqqm5hzbNC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028917035095-pdivsnuk8fu7gi52b8gj4ppuceov5kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
